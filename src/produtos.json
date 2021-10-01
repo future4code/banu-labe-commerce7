@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Lego do Espaço",
+        "descricao":"",
+        "value": 199.00,
+        "img": ""
+    },
+    {
+        "id": 2,
+        "name": "Lego do Espaço",
+        "descricao":"",
+        "value": 199.00,
+        "img": "../img/camiseta nasa.png"
+    },
+    {
+        "id": 3,
+        "name": "Lego do Espaço",
+        "descricao":"",
+        "value": 199.00,
+        "img": ""
+    },
+    {
+        "id": 4,
+        "name": "Lego do Espaço",
+        "descricao":"",
+        "value": 199.00,
+        "img": ""
+    },
+    {
+        "id": 5,
+        "name": "Lego do Espaço",
+        "descricao":"",
+        "value": 199.00,
+        "img": ""
+    },
+    {
+        "id": 6,
+        "name": "Lego do Espaço",
+        "descricao":"",
+        "value": 199.00,
+        "img": ""
+    },
+    {
+        "id": 7,
+        "name": "Lego do Espaço",
+        "descricao":"",
+        "value": 199.00,
+        "img": ""
+    },
+    {
+        "id": 8,
+        "name": "Lego do Espaço",
+        "descricao":"",
+        "value": 199.00,
+        "img": ""
+    },
+    {
+        "id": 9,
+        "name": "Lego do Espaço",
+        "descricao":"",
+        "value": 199.00,
+        "img": ""
+    },
+    {
+        "id": 10,
+        "name": "Lego do Espaço",
+        "descricao":"",
+        "value": 199.00,
+        "img": ""
+    }
+]
