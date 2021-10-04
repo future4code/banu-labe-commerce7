@@ -8,10 +8,10 @@
     },
     {
         "id": 2,
-        "name": "Lego do Espaço",
+        "name": "Camiseta Nasa",
         "descricao":"",
-        "value": 199.00,
-        "img": "../img/camiseta nasa.png"
+        "value": 40.00,
+        "img": "../img/camiseta.png"
     },
     {
         "id": 3,
